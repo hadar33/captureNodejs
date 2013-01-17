@@ -1,0 +1,13 @@
+{
+    "name": "rest-sugar-demo",
+    "private": true,
+    "description": "rest-sugar mongoose demo",
+    "author": "Juho Vepsalainen <bebraw@gmail.com>",
+    "version": "0.1.0",
+
+    "dependencies": {
+        "express": "== 2.5.9",
+        "mongoose": "== 3.0.2",
+        "mongoose-sugar": "== 0.2.2"
+    }
+}
